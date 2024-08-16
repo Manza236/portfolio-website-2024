@@ -1,0 +1,360 @@
+[
+  {
+    "_id": 1,
+    "name": "Md. Tawhid Islam Opu",
+    "designation": "CEO of Baaiotas",
+    "image": "src/assets/images/CEO//Person-1.jpg"
+  },
+
+  {
+    "_id": 2,
+    "name": "Musaiedul Islam Apon",
+    "designation": "Student at Independent University, Bangladesh ",
+    "email": "apon2411999@gmail.com",
+    "image": "src/assets/images/EEE/Apon/Person-2.jpg"
+  },
+
+  {
+    "_id": 3,
+    "name": "Saif Hasnat Fahad ",
+    "designation": "Student at Ahsanullah University of Science and Technology",
+    "email": "fahadsaif009@gmail.com",
+    "image":"src/assets/images/EEE/Fahad/Person-21.jpg"
+  },
+  {
+    "_id": 4,
+    "name": "Tarikul islam Shaikat",
+    "designation": "Student at Independent University, Bangladesh ",
+    "email": "tarikulislamshaikat2525@gmail.com",
+    "image":"src/assets/images/EEE/Shaikat/Person-25.jpg"
+  },
+  {
+    "_id": 5,
+    "name": "Saad Ahmed ",
+    "designation": "Student at Independent University, Bangladesh ",
+    "email": "saadahmed69984@gmail.com",
+    "image":"src/assets/images/EEE/Saad/Person-20.jpg"
+  },
+  {
+    "_id": 6,
+    "name": "Md.Hasibul Islam Fahim",
+    "designation": "Student at Independent University, Bangladesh ",
+    "email": "islamfahim804@gmail.com",
+    "image":"src/assets/images/EEE/Hasibul/Person-7.png"
+  },
+  {
+    "_id": 7,
+    "name": "Sayem Bin Rafique",
+    "designation": "Student at Independent University, Bangladesh ",
+    "email": "suni.itu33@gmail.com",
+    "image":"src/assets/images/EEE/Rafique/Person-23.jpg"
+  },
+  {
+    "_id": 8,
+    "name": "MD. Yasin Altaf ",
+    "designation": "Student at Independent University, Bangladesh ",
+    "email": "oceanhunteryasin@gmail.com",
+    "image":"src/assets/images/EEE/Yasin/Person-25.jpg"
+  },
+  {
+    "_id": 9,
+    "name": "Md Maheen Billah",
+    "designation": "Student at Independent University, Bangladesh ",
+    "email": "md.maheen.billah.97@gmail.com",
+    "image":"src/assets/images/EEE/Maheen/Person-8.jpg"
+  },
+  {
+    "_id": 10,
+    "name": "Ashraful Alam Shuvo",
+    "designation": "Student at Independent University, Bangladesh ",
+    "email": "ashrafulalamshuvo1997@gmail.com",
+    "image":"src/assets/images/EEE/Shuvo/Person-24.jpg"
+  },
+  {
+    "_id": 11,
+    "name": "Marjan Al Haque ",
+    "designation": "Student at Independent University, Bangladesh ",
+    "email": "marjanhaque26@gmail.com",
+    "image":"src/assets/images/EEE/Marjan/Person-9.jpg"
+  },
+  {
+    "_id": 12,
+    "name": "Shad Hassan",
+    "designation": "Student at Independent University, Bangladesh ",
+    "email": "shadhassan8991@gmail.com",
+    "image":"src/assets/images/EEE/Shad/Person-22.png"
+  },
+  {
+    "_id": 13,
+    "name": "Mehrab Hossain Shihab",
+    "designation": "Student at American International University - Bangladesh",
+    "email": "shihab3368@gmail.com",
+    "image":"src/assets/images/EEE/Shihab/Person-23.jpg"
+  },
+  {
+    "_id": 14,
+    "name": "Eazaz Ahamad ",
+    "designation": "Student at Independent University, Bangladesh ",
+    "email": "eazazahamed64@gmail.com",
+    "image":"src/assets/images/EEE/Eazaz/Person-4.jpg"
+  },
+  {
+    "_id": 15,
+    "name": "Abdullah Al Baki",
+    "designation": "Student at Independent University, Bangladesh ",
+    "email": "abriad71@gmail.com",
+    "image":"src/assets/images/EEE/Baki/Person-3.jpeg"
+  },
+  {
+    "_id": 16,
+    "name": "Md. Khalid Mahmud",
+    "designation": "Student at Independent University, Bangladesh ",
+    "email": "khalid171807@gmail.com",
+    "image":"src/assets/images/EEE/Khalid/Person-7.png"
+  },
+  {
+    "_id": 17,
+    "name": "Md. Mehedi Hassan",
+    "designation": "Student at  Independent University, Bangladesh ",
+    "email": "maruffaraji@gmail.com",
+    "image":"src/assets/images/EEE/Mehedi/Person-15.jpg"
+  },
+  {
+    "_id": 18,
+    "name": "Md Mahmudul Hasan",
+    "designation": "Student at American International University - Bangladesh",
+    "email": "mhasan8281@gmail.com",
+    "image":"src/assets/images/EEE/Mahmudul/Person-12.jpg"
+  },
+  {
+    "_id": 19,
+    "name": "Saima Tasfia Roja",
+    "designation": "Student at Independent University, Bangladesh ",
+    "email": "saimat.27@gmail.com",
+    "image":"src/assets/images/EEE/Roja/Person-20.jpg"
+  },
+  {
+    "_id": 20,
+    "name": "Abdur Rahman Rifat ",
+    "designation": "Student at Independent University, Bangladesh ",
+    "email": "rifatengrpro@gmail.com ",
+    "image":"src/assets/images/EEE/Abdur Rahman Rifat/Person-1.jpg"
+  },
+  {
+    "_id": 21,
+    "name": "Md. Kasir Ruthba",
+    "designation": "Student at Independent University, Bangladesh ",
+    "email": "kasirruthba@gmail.com",
+    "image":"src/assets/images/EEE/Kasir/Person-7.jpg"
+  },
+  {
+    "_id": 22,
+    "name": "Md Jubayer Rahman",
+    "designation": "Student at Independent University, Bangladesh ",
+    "email": "jubayer.rahman924@gmail.com",
+    "image":"src/assets/images/EEE/Jubayer/Person-7.jpg"
+  },
+  {
+    "_id": 23,
+    "name": "MD. Shybur Rahaman",
+    "designation": "Student at Independent University, Bangladesh ",
+    "email": "shyburrahaman120@gmail.com ",
+    "image":"src/assets/images/EEE/Shybur/Person-14.png"
+  },
+  {
+    "_id": 24,
+    "name": "Saheeb Ahmad",
+    "designation": "Student at Bangladesh University of Engineering and Technology",
+    "email": "saheeb257@gmail.com ",
+    "image":"src/assets/images/EEE/Saheeb/Person-19.jpg"
+  },
+  {
+    "_id": 25,
+    "name": "Paul Akash",
+    "designation": "Student at Independent University, Bangladesh ",
+    "email": "palakash957@gmail.com",
+    "image":"src/assets/images/EEE/Paul/Person-15.jpg"
+  },
+  {
+    "_id": 26,
+    "name": "Mansib Shifat Hossain",
+    "designation": "Student at Independent University, Bangladesh ",
+    "email": "mansibofficial@gmail.com",
+    "image":"src/assets/images/EEE/Mansib/Person-12.jpg"
+  },
+  {
+    "_id": 27,
+    "name": "S. M. Manziul Azad",
+    "designation": "Student at East West University",
+    "email": "sm2azad@gmail.com",
+    "image":"src/assets/images/CSE/Manza/Person-1.jpg"
+  },
+  {
+    "_id": 28,
+    "name": "Saidur Rahman Sujon",
+    "designation": "Student at Ahsanullah University of Science and Technology",
+    "email": "sr.sujon.edu@gmail.com",
+    "image":"src/assets/images/CSE/Sujon/Person-1.png"
+  },
+  {
+    "_id": 29,
+    "name": "Shahin Sikder",
+    "designation": "Student at Independent University, Bangladesh ",
+    "email": "shahinsikder51@gmail.com",
+    "image":"src/assets/images/CSE/Shahin/Person-1.jpg"
+  },
+  {
+    "_id": 30,
+    "name": "Arefin Siddque",
+    "designation": "Student at East West University",
+    "email": "arefinsiddque073@gmail.com",
+    "image":"src/assets/images/CSE/Arefin/Person-1.jpg"
+  },
+  {
+    "_id": 31,
+    "name": "Sk. Ashraful Islam",
+    "designation": "Student at Green University of Bangladesh",
+    "email": "skashraful16@gmail.com",
+    "image":"src/assets/images/CSE/Ashraful/Person-1.png"
+  },
+  {
+    "_id": 32,
+    "name": "Rakibul Hasan",
+    "designation": "Student at Ahsanullah University of Science and Technology",
+    "email": "rakibulhasan.aust@gmail.com",
+    "image":"src/assets/images/ME/Rakibul/Person-1.jpg"
+  },
+  {
+    "_id": 33,
+    "name": "Md Imran",
+    "designation": "Student at Rajshahi University of Engineering & Technology",
+    "email": "tuhinimran129@gmail.com",
+    "image":"src/assets/images/ME/Imran/Person-1.jpg"
+  },
+  {
+    "_id": 34,
+    "name": "Mahadi Hassan Fahim ",
+    "designation": "Student at Ahsanullah University of Science and Technology",
+    "email": "mahadi7002@gmail.com",
+    "image":"src/assets/images/ME/Mahadi/Person-1.JPG"
+  },
+  {
+    "_id": 35,
+    "name": "Md. Omar Shadat Sarker ",
+    "designation": "Student at Khulna University of Engineering & Technology",
+    "email": "mdomarshadatsarker@gmail.com",
+    "image":"src/assets/images/ME/Omar/Person-1.jpg"
+  },
+  {
+    "_id": 36,
+    "name": "Md. Didarul Islam Khan ",
+    "designation": "Student at Ahsanullah University of Science and Technology",
+    "email": "muntasinislam40@gmail.com",
+    "image":"src/assets/images/ME/Didarul/Person-1.jpeg"
+  },
+  {
+    "_id": 37,
+    "name": "Himel Datta Choudhury ",
+    "designation": "Student at Ahsanullah University of Science and Technology",
+    "email": " himel.me.aust063@gmail.com",
+    "image":"src/assets/images/ME/Himel/Person-1.jpg"
+  },
+  {
+    "_id": 38,
+    "name": "Tawsif Jawad Promit",
+    "designation": "Student at Ahsanullah University of Science and Technology",
+    "email": "tawsif.jawad.aust.me@gmail.com",
+    "image":"src/assets/images/ME/Tawsif/Person-1.jpg"
+  },
+  {
+    "_id": 39,
+    "name": "Tanvir Ahamed ",
+    "designation": "Student at University of Asia Pacific",
+    "email": "tssakib78@gmail.com",
+    "image":"src/assets/images/CIVIL/Tanvir/Person-1.jpg"
+  },
+  {
+    "_id": 40,
+    "name": "Md. Azizur Rahman Shakil",
+    "designation": "Student at University of Asia Pacific",
+    "email": "azizur.shakil2@gmail.com",
+    "image":"src/assets/images/CIVIL/Aziz/Person-1.JPG"
+  },
+  {
+    "_id": 41,
+    "name": "Mohammed Arifur Rahman Mojumder ",
+    "designation": "Student at Ahsanullah University of Science and Technology",
+    "email": "mohammedarifurrahmanmojumder@gmail.com",
+    "image":"src/assets/images/CIVIL/Arifur/Person-1.jpeg"
+  },
+  {
+    "_id": 42,
+    "name": "Sampad Shil",
+    "designation": "Student at Ahsanullah University of Science and Technology",
+    "email": "sampadshil.ce@gmail.com",
+    "image":"src/assets/images/CIVIL/Sampad/Person-1.jpg"
+  },
+  {
+    "_id": 43,
+    "name": "Mymuna Begum",
+    "designation": "Student at University of Asia Pacific",
+    "email": "mymunabegum1998@gmail.com",
+    "image":"src/assets/images/CIVIL/Mymuna/Person-1.jpg"
+  },
+  {
+    "_id": 44,
+    "name": "Aiman Wasee",
+    "designation": "Student at Khulna University of Engineering & Technology",
+    "email": "aiman.wasee@gmail.com",
+    "image":"src/assets/images/CIVIL/Aiman/Person-1.jpg"
+  },
+  {
+    "_id": 45,
+    "name": "Irfan Sadik Shaer ",
+    "designation": "Student at Ahsanullah University of Science and Technology",
+    "email": "irfanshaer@gmail.com",
+    "image":"src/assets/images/CIVIL/Irfan/Person-1.jpg"
+  },
+  {
+    "_id": 46,
+    "name": "Md. Touhidur Rahman",
+    "designation": "Student at Khulna University of Engineering & Technology",
+    "email": "touhid.rmn@gmail.com",
+    "image":"src/assets/images/Energy/Touhid/Person-1.PNG"
+  },
+  {
+    "_id": 47,
+    "name": "Fazle Rabbi Ashique",
+    "designation": "Student at  East West University",
+    "email": "ashiquef@gmail.com",
+    "image":"src/assets/images/BBA/Ashique/Person-1.jpg"
+  },
+  {
+    "_id": 48,
+    "name": "ASADUZZAMAN PARVEZ",
+    "designation": "Student at East West University",
+    "email": "asadnoyonparvez@gmail.com",
+    "image":"src/assets/images/BBA/PARVEZ/Person-1.jpeg"
+  },
+  {
+    "_id": 49,
+    "name": "Fazle Rabbi Khan",
+    "designation": "Student at East West University",
+    "email": "fazlerabbi506333@gmail.com",
+    "image":"src/assets/images/BBA/Rabbi/Person-1.jpg"
+  },
+  {
+    "_id": 50,
+    "name": "Mahmud Ibne Kabir Saad",
+    "designation": "Student at East West University ",
+    "email": "infokabirsaad@gmail.com",
+    "image":"src/assets/images/BBA/Saad/Person-1.jpg"
+  },
+  {
+    "_id": 51,
+    "name": "RAYHAN KHAN RAFI",
+    "designation": "Student at Daffodil International University",
+    "email": "rayhanrafi69@gmail.com",
+    "image":"src/assets/images/M&D/RAFI/Person-1.jpg"
+  }
+]
